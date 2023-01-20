@@ -1,0 +1,1 @@
+This folder contains basic codes of file handling in C++.
