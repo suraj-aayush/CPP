@@ -1,1 +1,0 @@
-This folder contains all the codes related to inheritance and all other related topics
