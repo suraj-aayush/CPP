@@ -15,6 +15,8 @@ bool pali(string str, int l, int r)
 
 }
 
+
+
 int main(){
     string str = "abcdcba";
     bool ans = pali(str,0,str.size()-1);
